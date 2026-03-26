@@ -1,6 +1,9 @@
 📊 Sales Performance Dashboard - Analyse des Ventes Mensuelles
-📝 Description
+
 Lien du projet :https://docs.google.com/spreadsheets/d/1B5s0XXluPTWJdYvSnkVIG_jq67JNo2v7ErxbOGbR784/edit?usp=sharing
+
+📝 Description
+
 Ce projet consiste en la création d'un tableau de bord interactif d'analyse des ventes. L'objectif était de centraliser les indicateurs clés de performance (KPIs) pour permettre une prise de décision rapide sur la performance des produits, des régions et de la force de vente.
 
 Le dashboard permet de filtrer les données par mois et offre une vue granulaire sur la rentabilité et les tendances de ventes sur une période de deux ans (2023-2025).
